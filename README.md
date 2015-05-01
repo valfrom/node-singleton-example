@@ -1,1 +1,1 @@
-# node-singleton-example
+Simple example to demonstrate how to create singleton.
